@@ -2,13 +2,13 @@
   "name": "@webnovel/chereads-icons",
   "version": "0.0.8",
   "description": "Icon automation workflow with Figma",
-  "main": "dist/juuust-react-icon.cjs.js",
-  "module": "dist/juuust-react-icon.esm.js",
+  "main": "dist/react-icon.cjs.js",
+  "module": "dist/react-icon.esm.js",
   "typings": "dist/icons.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/leadream/juuust-react-icon.git",
+  "repository": "https://github.com/yued-fe/chereads-icons.git",
   "author": "yued-fe",
   "keywords": [
     "react",
@@ -16,13 +16,12 @@
     "svg",
     "inline",
     "figma",
-    "juuust",
     "design"
   ],
   "bugs": {
-    "url": "https://github.com/leadream/juuust-react-icon/issues"
+    "url": "https://github.com/yued-fe/chereads-icons/issues"
   },
-  "homepage": "https://github.com/leadream/juuust-react-icon#readme",
+  "homepage": "https://github.com/yued-fe/chereads-icons#readme",
   "scripts": {
     "fetch": "node bin/fetchSVG.js",
     "generate": "sudo rm -rf src/icons && node bin/build.js",
