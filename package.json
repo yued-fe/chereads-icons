@@ -1,6 +1,6 @@
 {
   "name": "@webnovel/chereads-icons",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Icon automation workflow with Figma",
   "main": "dist/react-icon.cjs.js",
   "module": "dist/react-icon.esm.js",
